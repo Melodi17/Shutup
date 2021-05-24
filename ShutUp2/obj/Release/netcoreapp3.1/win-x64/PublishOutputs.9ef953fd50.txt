@@ -1,0 +1,2 @@
+C:\Users\austi\source\repos\ShutUp2\ShutUp2\bin\Release\netcoreapp3.1\publish\ShutUp2.pdb
+C:\Users\austi\source\repos\ShutUp2\ShutUp2\bin\Release\netcoreapp3.1\publish\ShutUp2.exe

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2rFh6ETZvnuQKb2VUMfNf7wkIh1tuLJ/WXnaHUwwUBS0+dy454n6h1WZwUBf5EiahEvGnK+lnxVkoH4iqpxmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\austi\\source\\repos\\ShutUp2\\ShutUp2\\ShutUp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\austi\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.13\\microsoft.netcore.app.runtime.win-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.13\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.13\\microsoft.aspnetcore.app.runtime.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ini-parser 2.5.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "ini-parser",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
